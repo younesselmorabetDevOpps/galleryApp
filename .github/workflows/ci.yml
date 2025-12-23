@@ -53,4 +53,4 @@ jobs:
           context: .
           file: ./Dockerfile_tests # Utilise ton Dockerfile avec tests
           push: true
-          tags: ghcr.io/${{ github.actor }}/gallery-app:latest
+          tags: ghcr.io/younesselmorabetdevopps/gallery-app:latest
